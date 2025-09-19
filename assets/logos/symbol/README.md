@@ -1,7 +1,17 @@
 # Symbol Logos
 
-This directory contains symbol logos for Jovay. These logos are just the Jovay symbol, without the "Jovay" text. They are suitable for use in small spaces where the full logo would be illegible.
+This directory contains the isolated Jovay symbol without the accompanying text.
 
-## Files
+- `svg/` - Scalable Vector Graphics.
+- `png/` - Portable Network Graphics.
 
-- `jovay-logo-symbol.svg`: The Jovay symbol logo in SVG format.
+## Naming Convention
+
+File names are structured to be self-descriptive:
+
+`[color]-[shape].ext`
+
+- **color**: Describes the color of the symbol (e.g., `black`, `blue`, `white`).
+- **shape**: Describes the background shape, if any. If there is no shape suffix, the logo has a transparent background.
+
+**Example**: `blue-circle.svg` is the blue Jovay symbol on a circular background.

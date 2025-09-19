@@ -1,10 +1,7 @@
-# Jovay Brand Assets
+# Brand Assets
 
-## Logo Files
-- **primary/** - Full-color logos for light backgrounds
-- **inverted/** - Light logos for dark backgrounds
-- **symbol/** - Symbol-only logos for small spaces
+This directory contains all visual brand assets for Jovay.
 
-## Naming
-`jovay-logo-[format]-[variation].[ext]`
+- `logos/` - Contains all logo variations, including wordmarks and symbols, in both SVG and PNG formats.
 
+Please refer to the `README.md` file in each subdirectory for more detailed information.
