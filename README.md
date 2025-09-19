@@ -11,6 +11,12 @@ This repository contains all official brand assets for Jovay. The main logo asse
 
 Each directory contains `svg` and `png` subdirectories for different file formats.
 
+## 📖 Brand Guidelines
+
+For detailed instructions on how to use our brand assets, including logo usage, color palette, and typography, please refer to our official brand guidelines document:
+
+- **[Jovay Brand Visual Guidelines](./guidelines/jovay_brand_visual_guidelines.pdf)**
+
 ## 🎨 Logo Files
 
 - **Wordmark**: The full logo with text. Found in `assets/logos/wordmark/`.
